@@ -1,5 +1,7 @@
 # **Biscoiteras** - https://redesocial-18fde.firebaseapp.com/
 
+![biscoiteras](https://user-images.githubusercontent.com/46815021/61192995-b98b6d00-a68e-11e9-9a18-93725b937d9f.png)
+
 ## Criando uma rede social
 
 ### Preâmbulo
